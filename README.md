@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Alibaba Group](https://github.com/alibaba)
+- 🔭 I’m currently working on X-Lab.
 - 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/)
 - 👯 I’m looking to collaborate on [Apache Flink](http://github.com/apache/flink/)
 - ⚡ Fun fact: Games & American tv series
