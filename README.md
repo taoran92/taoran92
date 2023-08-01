@@ -2,6 +2,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning [Kubernetes](https://kubernetes.io/) and [Apache Calcite](https://calcite.apache.org/)
+- 🌱 I’m currently learning [Apache Calcite](https://calcite.apache.org/) and [Kubernetes](https://kubernetes.io/)
 - 👯 I’m looking to collaborate on [Apache Flink](http://github.com/apache/flink/)
-- ⚡ Fun fact: E-Sports & American tv series
+- ⚡ Fun facts: E-Sports & American tv series
