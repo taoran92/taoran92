@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=taoran92&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" />
+<img align="right" src="https://edge-readme-stats.dancodes.online/stats?username=taoran92&theme=dark&show_icons=true&include_all_commits=true&hide_border=true" />
 
 ### Hi there 👋
 
