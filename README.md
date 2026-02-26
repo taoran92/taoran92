@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning [Apache Calcite](https://calcite.apache.org/) and [Kubernetes](https://kubernetes.io/)
 - 👯 I’m looking to collaborate on [Apache Flink](http://github.com/apache/flink/)
-- ⚡ Fun facts: E-Sports & American tv series
+- ⚡ Fun facts: E-Sports & American TV series
