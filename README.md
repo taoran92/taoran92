@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning [Apache Calcite](https://calcite.apache.org/) and [Kubernetes](https://kubernetes.io/)
 - 👯 I’m open to collaborating on [Apache Flink](http://github.com/apache/flink/)
-- 🌐 [Personal website](https://taoran92.github.io/) — experience and open-source contributions
+- 🌐 More about me: [Personal website](https://taoran92.github.io/) 
